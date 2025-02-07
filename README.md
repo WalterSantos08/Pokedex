@@ -1,7 +1,9 @@
-# PokéAgenda <a href="https://emoji.gg/emoji/8128-pokeball"><img src="https://cdn3.emoji.gg/emojis/8128-pokeball.png" width="30px" height="30px" alt="pokeball"></a>
+# PokéAgenda
 
 ## Descrição
 A **PokéAgenda** é um projeto simples de uma Pokédex interativa, onde os usuários podem buscar por Pokémons através do nome ou número. O projeto é construído com HTML, CSS e JavaScript.
+
+<img src="image/pokedex.gif" width="500">
 
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura da página
